@@ -7,3 +7,6 @@
 5) Uses Multilayer Perceptron(MLP) over a dataset of images: numbers 0-9 and alphabets.<br>
 
 ![detection](https://user-images.githubusercontent.com/31189656/98455855-19d7d500-2144-11eb-9b3e-15d5cc646bc5.JPG)
+
+# Reference
+https://github.com/GuiltyNeuron/ANPR/tree/master/Tunisian_anpr/Licence_plate_detection
